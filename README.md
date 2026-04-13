@@ -11,6 +11,9 @@ O **Portal Gastronomia** é um site completo desenvolvido em PHP que permite aos
 - 🔍 **Explorar** receitas de outros membros
 - 📧 **Enviar** mensagens de contato
 
+ ### 👩🏻‍💻 Desenvolvedor 
+ - Aldrey Franciele Da Silva Dutra
+
 ### ✨ Funcionalidades Principais
 
 | Funcionalidade | Descrição |
