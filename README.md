@@ -29,43 +29,45 @@ O **Portal Gastronomia** é um site completo desenvolvido em PHP que permite aos
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+### 🎓 Projeto Acadêmico
+- Desenvolvido como Trabalho Final da disciplina de Desenvolvimento Web, aplicando conceitos de:
 
-• PHP 8.0+
-• MySQL 8.0+
-• Bootstrap 5.3
-• HTML5
-• CSS3
-• JavaScript
-• Font Awesome 6.0
-• Google Fonts (Poppins + Playfair Display)
+- Programação PHP orientada a objetos
+- Banco de dados relacional MySQL
+- CRUD completo
+- Sistema de autenticação e sessões
+- Design responsivo e UX
+
 ---
+
 ## 📁 Estrutura do Projeto
 
 <img width="391" height="425" alt="image" src="https://github.com/user-attachments/assets/29b267e5-0738-4f02-a9df-baa6448c7f92" />
 
 
 
-🎨 Recursos Visuais
-✨ Tema Chocolate - Paleta de cores elegante e consistente
-🎭 Animações - Fade-in ao rolar a página
-🖱️ Hover Effects - Interações visuais em cards e botões
-📱 Responsivo - Funciona em todos os dispositivos
-🎨 Bootstrap 5 - Framework CSS moderno
-🔤 Google Fonts - Tipografia profissional (Poppins + Playfair Display)
-🔐 Segurança
-✅ Senhas com hash (bcrypt)
-✅ Prepared Statements (previne SQL Injection)
-✅ XSS Protection (htmlspecialchars)
-✅ Validação de formulários
-✅ Sessões seguras
+- 🎨 Recursos Visuais
+- ✨ Tema Chocolate - Paleta de cores elegante e consistente
+- 🎭 Animações - Fade-in ao rolar a página
+- 🖱️ Hover Effects - Interações visuais em cards e botões
+- 📱 Responsivo - Funciona em todos os dispositivos
+- 🔤 Google Fonts - Tipografia profissional (Poppins + Playfair Display)
+- 🔐 Segurança
+- ✅ Senhas com hash (bcrypt)
+- ✅ Prepared Statements (previne SQL Injection)
+- ✅ XSS Protection (htmlspecialchars)
+- ✅ Validação de formulários
+- ✅ Sessões seguras
 
  📱 **Responsivo**
  
 <img width="287" height="494" alt="image" src="https://github.com/user-attachments/assets/374cdc20-8daa-4c84-924f-d479c87ff6a0" />
 
 
-<img width="1322" height="590" alt="image" src="https://github.com/user-attachments/assets/98e3a547-157b-4a00-a34b-c37f1b920aec" />
+<img width="1312" height="583" alt="image" src="https://github.com/user-attachments/assets/3b76fc8a-a6ea-49d4-87c4-e5424c141c68" />
+
+<img width="1232" height="608" alt="image" src="https://github.com/user-attachments/assets/fd8405c2-2ddd-4b82-b9aa-4c07cd54bdf0" />
+
 
 <img width="411" height="571" alt="image" src="https://github.com/user-attachments/assets/7dce4dc0-4142-4fb7-881c-d55b6a7780ef" />
 
